@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/3CardsReact/static/css/main.e539b5ab.css",
+    "main.js": "/3CardsReact/static/js/main.cd8bbc9a.js",
+    "static/media/siri.png": "/3CardsReact/static/media/siri.e6a70a555204b3a1f6f0.png",
+    "index.html": "/3CardsReact/index.html",
+    "main.e539b5ab.css.map": "/3CardsReact/static/css/main.e539b5ab.css.map",
+    "main.cd8bbc9a.js.map": "/3CardsReact/static/js/main.cd8bbc9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e539b5ab.css",
+    "static/js/main.cd8bbc9a.js"
+  ]
+}
